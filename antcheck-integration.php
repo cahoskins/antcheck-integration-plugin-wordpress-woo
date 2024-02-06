@@ -3,7 +3,7 @@
 Plugin Name: AntCheck Integration
 Plugin URI: https://antcheck.info
 Description: This tiny plugin enables the integration of the WooCommerce products to Antcheck
-Version: 0.2
+Version: 0.3
 Requires at least: 5.0
 Author: Darvin
 Author URI: https://darvin.de/
