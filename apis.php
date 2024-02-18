@@ -5,12 +5,6 @@ if ( !defined( 'ABSPATH' ) ) {
 	die();
 }
 
-//Antontop {
-	//"auth": "antcheck-integration-plugin",
-	//"key": "B6ZqCNO7bx7t0BVGTkwzeuGAQnAiSWF5"
-  //}
-
-
 	/*
      * Permission Callback: Only allow access to the antcheck endpoints with the right key
      */
