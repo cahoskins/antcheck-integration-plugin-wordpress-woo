@@ -23,7 +23,7 @@ if ( !defined( 'ABSPATH' ) ) {
 				return true;
 			}
 		}
-		return new WP_Error( 'not-logged-in', 'Unauthorized. Use BASIC auth with username antcheckintegrationplugin and the key defined in the plugin settings as the password.', array( 'status' => 401 ) );
+		return new WP_Error( 'not-logged-in', 'Unauthorized', array( 'status' => 401 ) );
 	}
 
 
